@@ -8,7 +8,7 @@ initialize city as string
 initialize state as string
 initialize zipcode as string 
 
-Set variables 
+Set variables:
 
 restaurantName = Yolo Berry Yogurt
 address = 316 C St. 
